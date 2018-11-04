@@ -1,0 +1,14 @@
+#carre{
+width: 40px;
+height: 40px;
+background-color: grey;
+}
+
+
+section{
+  width : 300px;
+  height: 300px;
+  border: 2px solid green;
+  overflow: hidden;
+  margin: auto;
+}
